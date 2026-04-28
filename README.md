@@ -72,7 +72,7 @@ const dual = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-080a08?style=for-the-badge&logo=google-chrome&logoColor=39FF14)](https://mhmmtmst.github.io/Nihat-Portifolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080a08?style=for-the-badge&logo=linkedin&logoColor=39FF14)](linkedin.com/in/muhammet-nihat-mesut-aa47b9397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080a08?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/muhammet-nihat-mesut-aa47b9397)
 [![Instagram](https://img.shields.io/badge/Instagram-080a08?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/mhmmtmst)
 [![GitHub](https://img.shields.io/badge/GitHub-080a08?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/mhmmtmst)
 
