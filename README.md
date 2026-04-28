@@ -85,7 +85,7 @@ const dual = {
 ![Profile Views](https://komarev.com/ghpvc/?username=mhmmtmst&style=for-the-badge&color=39FF14&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME)
 
 ```
-"Yazılım yolculuğu devam ediyor ⚡"
+"O şey uygun değildir bu şey uygun olur neden olmasın ⚡"
 ```
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:080a08&height=120&section=footer)
